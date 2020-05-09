@@ -1,0 +1,32 @@
+Package: com.syekaughtik.kara
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Haris Aljic
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.syekaughtik.kara_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3262
+MD5sum: 02d25b205e950d651e2760dc4c1aed74
+SHA1: 44f4e1d7dc49686f9d8f7a71e2fac111f7cd82b2
+SHA256: 39fc7fce98df4b6a22c18080235378bf67824a61210bf943b8fb51a98b745d0f
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Haris Aljic
+Name: Kara
+
+Package: com.syekaughtik.naranja
+Version: 0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: Haris Aljic
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.syekaughtik.naranja_0.1-1+debug_iphoneos-arm.deb
+Size: 3254
+MD5sum: 7c3e4f8b5f053d906e23b6679bd6ab20
+SHA1: 78b4c58715f345b701ca303bb4542ce05853d27f
+SHA256: e783a96b97ed59ea9399a5daf8b2cc36baec768123fba61b072ab6a3286cffe4
+Section: Tweaks
+Description: Colour your headers orange!
+Author: Haris Aljic
+Name: Naranja
+
